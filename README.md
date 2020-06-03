@@ -1,2 +1,5 @@
-# config-and-scripts
-some configs and scripts commonly used :) 常用的个人配置和脚本，环境搭建
+### HomeBrew
+```bash
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+```
+自动化脚本安装brew，[作者](https://www.zhihu.com/question/35928898/answer/133380744)
