@@ -10,7 +10,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>http://impeiran.com/shadowrocket/Shadowrocket.ipa</string>
+                        <string>https://impeiran.github.io/config-and-scripts/Shadowrocket.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
