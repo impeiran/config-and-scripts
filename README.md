@@ -15,7 +15,7 @@ find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
 ```bash
 # 自动配置homebrew && 一键镜像
 # https://gitee.com/cunkai/HomebrewCN/
-sh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN/raw/master/Homebrew.sh)"
 
 # oh-my-zsh
 # https://github.com/ohmyzsh/ohmyzsh
