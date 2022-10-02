@@ -1,4 +1,4 @@
-#### Install stuffs
+## Install stuffs
 - homebrew
 
 自动配置homebrew && 一键镜像
@@ -11,7 +11,7 @@
 install n for node/npm
 https://github.com/tj/n
 
-#### scripts
+## scripts
 - delete node_modules
 ```bash
 find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
