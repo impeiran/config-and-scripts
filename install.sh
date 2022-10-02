@@ -1,0 +1,1 @@
+bash ./terminal/install.sh
