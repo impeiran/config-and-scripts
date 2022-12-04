@@ -16,3 +16,11 @@ https://github.com/tj/n
 ```bash
 find . -name 'node_modules' -type d -prune -exec rm -rf '{}' +
 ```
+- 刷新mac输入法（在无法切换时使用）
+```bash
+flush-ime () {
+  USER=`whoami`
+  pkill -u $USER -f /usr/sbin/distnoted
+  pkill -u $USER -if input
+}
+```
